@@ -1,2 +1,2 @@
-# Sistema-de-pedidos-para-cafeter-a-universitaria
+# Sistema-de-pedidos-para-cafeteria-universitaria
 proyecto final
