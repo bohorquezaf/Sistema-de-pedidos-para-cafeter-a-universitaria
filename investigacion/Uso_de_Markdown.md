@@ -46,7 +46,7 @@ lista ordenada
 ---
 
 ## 4.Enlaces e imagenes 
-[![](https://img.youtube.com/vi/UGRyeQrzpGA/7gln2J7ILmw.jpg)](https://youtu.be/7gln2J7ILmw)
+[![Tutorial de como poner enlaces](https://img.youtube.com/vi/uvTcd-VlM64/0.jpg)](https://www.youtube.com/watch?v=uvTcd-VlM64)
 
 ---
 
