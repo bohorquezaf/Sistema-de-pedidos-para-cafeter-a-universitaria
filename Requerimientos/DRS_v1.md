@@ -1,6 +1,6 @@
-# Lista de Requerimientos
+# Lista de Requerimientos funcionales
 
-## Requerimientos Funcionales
+----
 
 | Requerimiento | Descripción |
 |---------------|-------------|
@@ -12,14 +12,5 @@
 | Autenticación | Validar acceso según tipo de usuario. |
 | Historial de pedidos | Mostrar pedidos anteriores con información detallada. |
 
----
 
-## 3.2 Requerimientos No Funcionales
-
-| Requerimiento | Descripción |
-|---------------|-------------|
-| Usabilidad | 95% de usuarios completa un pedido en menos de 2 minutos. |
-| Rendimiento | Respuesta máxima de 2 segundos por acción. |
-| Escalabilidad | Soporta 100% más pedidos sin superar 3s de respuesta. |
-| Disponibilidad | 95% de operatividad durante horario laboral. |
 
