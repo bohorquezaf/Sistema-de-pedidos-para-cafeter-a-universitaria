@@ -2,7 +2,6 @@
 
 ---
 
-## Requerimientos No Funcionales  
 
 | Requerimiento | Descripción |
 |---------------|-------------|
