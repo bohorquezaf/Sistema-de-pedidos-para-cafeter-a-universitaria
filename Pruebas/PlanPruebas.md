@@ -12,7 +12,7 @@ El sistema será aceptado si:
 
 #  Casos de Prueba
 
-### Casos unitarios (simulados):
+### Casos unitarios :
 
 | Requerimiento | Entrada | Resultado esperado | Resultado obtenido |
 |---------------|---------|-------------------|--------------------|
