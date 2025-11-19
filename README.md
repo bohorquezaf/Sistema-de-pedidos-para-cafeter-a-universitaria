@@ -1,6 +1,6 @@
 # Sistema-de-pedidos-para-cafeteria-universitaria
 
-<a href='https://postimg.cc/r0BcbkX7' target='_blank'><img src='https://i.postimg.cc/r0BcbkX7/Chat-GPT-Image-18-nov-2025-17-53-27.png' border='0' alt='Chat-GPT-Image-18-nov-2025-17-53-27'></a>
+[![cafeteria.png](https://i.postimg.cc/xCpFLQG0/cafeteria.png)](https://postimg.cc/k68cdkhZ)
 
 ---
 
